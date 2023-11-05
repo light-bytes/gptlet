@@ -35,9 +35,11 @@ The bookmarklet should only be used from a secure website due to storing The Ope
 
 # About the project
 
-To simply put it I'm broke and rebellious. Im a self taught programmer from childhood, having my roots in reverse-enginnering game servers. As a result, in the present, I have an older iPhone with an older iOS version and older WebKit version. This is because I want to have my iPhone jailbroken, it stays on 14.8.1 so that I can get the proper use out of it that any person should. However, anyone in the scene knows that apple forces older iOS versions to become obsolete. https://chat.openai.com stopped working for any browser on my phone due to apple enforcing iPhones to use WebKit. WebKit is unable to be updated for older iOS versions! What a coincidence for Apple, AI App developers have stopped targeting older iOS versions as well..
+To simply put it I'm broke and rebellious.. Im a self taught programmer from childhood, having my roots in reverse-enginnering game servers. As a result, in the present, I have an older iPhone with an older iOS version and older WebKit version. This is because I want to have my iPhone jailbroken, it stays on 14.8.1 so that I can get the proper use out of it that any person should. However, anyone in the scene knows that apple forces older iOS versions to become obsolete. https://chat.openai.com stopped working for any browser on my phone due to apple enforcing iPhones to use WebKit. WebKit is unable to be updated for older iOS versions! What a coincidence for Apple, AI App developers have stopped targeting older iOS versions as well..
 
 Anyways, I hope this returns some convenience and peace to your life! I will continue to push updates and im offering user support at https://t.me/gptlet.
+
+Please, if this helped your life at all, and you feel like helping mine out, my eth/bnb address is `0xCb379f783aaD79d0fEc60414a8A3C712f762080B`
 
 # SUPPORT
 
