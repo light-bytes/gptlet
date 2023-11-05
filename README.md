@@ -1,12 +1,13 @@
 <div align="center">
   
 # gptlet
-  
-</div>
 
-A featherweight ChatGPT OpenAI API bookmarklet client built for iOS versions running older Safari WebKit
+A featherweight ( < 10KB ) ChatGPT OpenAI API bookmarklet client built for iOS versions running older Safari WebKit
 
 <img src="https://i.imgur.com/qWDYink.png">
+
+</div>
+
 
 # Features
 
