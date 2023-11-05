@@ -21,6 +21,10 @@ A featherweight ( < 10KB ) ChatGPT OpenAI API bookmarklet client built for iOS v
 
 # installation iOS Mobile Safari
 
+- Requirements: 
+  - OpenAI API key (https://platform.openai.com/account/api-keys)
+  - a brain
+
 ```
 - Open Safari then create and save a new bookmark for any website
 - Copy the contents of `gptlet.js` to your clipboard on device
